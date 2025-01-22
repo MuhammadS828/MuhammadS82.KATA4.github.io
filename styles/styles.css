@@ -62,6 +62,7 @@
   background-color: #ffffff;
   margin-top: 23px;
   margin-left: 78px;
+  background-image: url(../assets/icons/search.svg);
 }
 .fixed-block__searh:hover {
   cursor: alias;
